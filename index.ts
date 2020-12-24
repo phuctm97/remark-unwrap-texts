@@ -13,4 +13,4 @@ const plugin = () => (tree: Parent) => {
   });
 };
 
-export default plugin;
+export = plugin;
