@@ -1,0 +1,20 @@
+{
+  "name": "remark-unwrap-texts",
+  "version": "0.0.0",
+  "description": "Unwrap text nodes in Markdown, avoid unexpected breaks when publishing to platforms like DEV.to, Hashnode, etc.",
+  "repository": "https://github.com/phuctm97/remark-unwrap-texts",
+  "author": {
+    "name": "Minh-Phuc Tran",
+    "email": "me@phuctm97.com",
+    "url": "https://phuctm97.com"
+  },
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "style:check": "prettier --check .",
+    "style:format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
