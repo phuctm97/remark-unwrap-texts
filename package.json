@@ -1,6 +1,6 @@
 {
   "name": "remark-unwrap-texts",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "📋 Unwraps text nodes in Markdown, is useful when publishing to platforms like DEV.to, Medium, Hashnode, etc.",
   "keywords": [
     "markdown",
