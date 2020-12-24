@@ -1,7 +1,6 @@
 # 📋 remark-unwrap-texts
 
 ![npm version](https://img.shields.io/npm/v/remark-unwrap-texts)
-![npm bundle size](https://img.shields.io/bundlephobia/min/remark-unwrap-texts)
 ![GitHub license](https://img.shields.io/github/license/phuctm97/remark-unwrap-texts)
 
 Unwraps text nodes in Markdown, is useful when publishing to platforms like
