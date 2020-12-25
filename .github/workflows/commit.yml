@@ -1,0 +1,17 @@
+name: Commit
+
+on: push
+
+jobs:
+  enforce-code-style:
+    name: Enforce code style
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actionsx/yarn@master
+      - run: yarn style:check
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actionsx/yarn@master
+      - run: yarn build
