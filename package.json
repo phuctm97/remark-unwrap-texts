@@ -33,7 +33,7 @@
     "style:format": "prettier --write ."
   },
   "dependencies": {
-    "unist-util-visit": "^2.0.3"
+    "unist-util-visit": "^3.1.0"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
